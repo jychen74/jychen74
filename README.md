@@ -1,7 +1,6 @@
 ## Hi there 👋 
 
-I am JY Chen, currently struggle on finding a new way for my life.
-
+I am JY Chen, moving forward toward a brighter future.
 <!--
 **jychen74/jychen74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
