@@ -1,6 +1,13 @@
-## Hi there 👋 
+## Hi there 👋
 
 I am JY Chen, moving forward toward a brighter future.
+
+## My works
+
+1) [My page](https://jychen74.github.io/)
+2) [NanoMemo](https://jychen74.github.io/NanoMemo/)
+3) [Business model canvas](https://jychen74.github.io/Academic-BMC-WebApp/)
+
 <!--
 **jychen74/jychen74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
